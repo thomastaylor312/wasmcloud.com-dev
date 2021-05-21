@@ -1,11 +1,11 @@
 ---
-title : "Your ‘Surge Capacity’ Is Depleted It’s Why You Feel Awful to The Society"
+title : "WebAssembly takes center stage at Kubecon EU 2021"
 image : "images/blogs/01.jpg"
-date: 2020-03-14T15:40:24+06:00
-author: "Ausie Makquis"
-author_profile: "https://linkedin.com/in/#"
-description : "this is meta description"
-categories: ["Technology"]
+date: 2021-04-09T15:40:24+06:00
+author: "Liam Randall"
+author_profile: "https://www.linkedin.com/in/hectaman/"
+description : "2021 Kubecon EU WebAssembly keynote- Cloud Native & WebAssembly: Better Together"
+categories: ["kubcon"]
 draft : false
 ---
 

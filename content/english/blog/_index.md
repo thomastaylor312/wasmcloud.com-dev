@@ -1,9 +1,9 @@
 ---
 title : "Blog"
-description : "this is meta description"
+description : "The Official wasmCloud Blog"
 draft : false
 ---
 
-## Find A **Source Of Knowledge**
+## The Official **wasmCloud** Blog
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+All of the latest news, ideas, and vision for where we are going with wasmCloud's modular Actor Model

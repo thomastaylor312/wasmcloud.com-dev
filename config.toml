@@ -173,10 +173,10 @@ weight = 5
 #URL = "team"
 #weight = 4
 
-#[[Languages.en.menu.main]]
-#name = "Blog"
-#URL = "blog"
-#weight = 5
+[[Languages.en.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Contact"
