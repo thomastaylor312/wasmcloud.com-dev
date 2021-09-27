@@ -185,7 +185,7 @@ weight = 6
 
 [[Languages.en.menu.main]]
 name = "Slack"
-URL = "https://slack.wasmCloud.com"
+URL = "https://join.slack.com/t/wasmcloud/shared_invite/zt-v399hciv-MPYVjgI8Z1bBLNpxKg9iFA"
 weight = 7
 
 #  [[Languages.en.menu.main]]
