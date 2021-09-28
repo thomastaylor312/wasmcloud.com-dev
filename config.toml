@@ -160,8 +160,14 @@ hasChildren = true
 
 [[Languages.en.menu.main]]
 name = "About"
-URL = "about"
+URL = "/about"
 weight = 5
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "About"
+  name = "Community Meeting"
+  url = "/community"
 
 #[[Languages.en.menu.main]]
 #name = "Services"

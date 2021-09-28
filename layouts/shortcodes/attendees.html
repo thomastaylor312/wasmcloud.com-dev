@@ -1,0 +1,6 @@
+{{ range $index, $attendee := $.Page.Params.attendees }}
+{{ $dataJ := getJSON ( printf "https://api.github.com/users/%s"  $attendee ) }}
+<a href={{ $dataJ.html_url }} target="_blank" >
+<img style="border-radius: 50%; width:100px" src={{ $dataJ.avatar_url }} alt={{ $dataJ.name }} >
+</a>
+{{ end }}
